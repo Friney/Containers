@@ -1,0 +1,3 @@
+*.h linguist-generated=true
+*.cc linguist-generated=true
+*.tpp linguist-generated=true
